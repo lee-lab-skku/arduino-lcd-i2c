@@ -1,13 +1,13 @@
 {
-  "name": "LiquidCrystal-I2C",
-  "version": "1.0.0",
-  "description": "A fixed library for safe control of I2C LCD displays (ft. DFRobot)",
+  "name": "arduino-lcd-i2c",
+  "version": "1.1.0",
+  "description": "Fixed version of HD44780 library w/ PCF8574 backpack for Arduino",
   "keywords": [
     "LCD",
     "I2C"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/lee-lab-skku/LiquidCrystal-I2C.git"
+    "url": "https://github.com/lee-lab-skku/arduino-lcd-i2c.git"
   }
 }
